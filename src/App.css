@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+
+
+
+input{
+ display: block;;
+}
+
+.input-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input-bar {
+  width: 200px;
+  text-align: center;
+  margin-bottom: 10px;
+}
